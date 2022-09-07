@@ -1,5 +1,5 @@
 # Taimur Tawil
-![Taimur Tawil][![image](https://user-images.githubusercontent.com/92693639/188778571-7da652d8-a67d-4e9b-9798-eb54d20633b1.png)]
+![Taimur Tawil](https://user-images.githubusercontent.com/92693639/188778571-7da652d8-a67d-4e9b-9798-eb54d20633b1.png)]
 
 ## My Experience
 
