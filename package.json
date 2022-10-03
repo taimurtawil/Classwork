@@ -1,0 +1,27 @@
+{
+  "name": "classwork",
+  "version": "1.0.0",
+  "description": "![Taimur Tawil](https://user-images.githubusercontent.com/92693639/188778571-7da652d8-a67d-4e9b-9798-eb54d20633b1.png)]",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch server server/index.js",
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taimurtawil/Classwork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taimurtawil/Classwork/issues"
+  },
+  "homepage": "https://github.com/taimurtawil/Classwork#readme"
+}
